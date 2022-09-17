@@ -1,0 +1,6 @@
+pandas
+random
+cv2
+math
+
+tensorflow==2.9.0
