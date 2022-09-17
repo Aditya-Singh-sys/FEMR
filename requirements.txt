@@ -1,6 +1,6 @@
-pandas
+pandas==1.4.4
 random
-cv2
+opencv==4.6.0
 math
 
 tensorflow==2.9.0
